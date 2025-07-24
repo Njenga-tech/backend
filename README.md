@@ -21,10 +21,3 @@ The backend for this project is deployed on **Render** and can be accessed here:
 
 🔗 [https://backend-5gp2.onrender.com](https://backend-5gp2.onrender.com)
 
-You can test API endpoints such as:
-
-- `GET /api/books`
-- `POST /api/users/login`
-- `POST /api/users/register`
-
-> Note: You may need a tool like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test endpoints.
